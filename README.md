@@ -1,1 +1,1 @@
-# Machine-learning-for-Human-Activity-Recgnition-
+# Machine-learning-for-Human-Activity-Recgnition-Using-Smartphones
